@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/person-list/static/css/main.25177ec6.css",
+    "main.js": "/person-list/static/js/main.d8c69d53.js",
+    "static/media/bg.jpg": "/person-list/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/back.svg": "/person-list/static/media/back.cb8af4b71d14108993a7b57c7d4e198c.svg",
+    "index.html": "/person-list/index.html",
+    "main.25177ec6.css.map": "/person-list/static/css/main.25177ec6.css.map",
+    "main.d8c69d53.js.map": "/person-list/static/js/main.d8c69d53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25177ec6.css",
+    "static/js/main.d8c69d53.js"
+  ]
+}
